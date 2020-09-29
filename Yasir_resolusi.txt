@@ -5,3 +5,6 @@ My Resolusi :
   4. Pelajari Python
   5. Membuat aplikasi2 sederhana
   6. Pelajari linux
+
+Writing :
+  1. Rajin menulis setiap harinya!
